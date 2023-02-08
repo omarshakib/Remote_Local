@@ -1,1 +1,2 @@
 hi this is omar
+I am learning git and git hub
